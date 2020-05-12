@@ -36,10 +36,6 @@
             "htest1",
             "htest2"
         ],
-        "paulhost": [
-            "HostA",
-            "HostB"
-        ],
         "HostGroup1": [
             "HostA",
             "HostB"
